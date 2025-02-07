@@ -1,4 +1,3 @@
-package APTs;
 public class CirclesCountry 
 {
     public int leastBorders(int[] x, int[] y, int[] r, 

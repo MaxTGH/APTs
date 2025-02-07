@@ -1,7 +1,5 @@
-import java.util.*;
 public class TxMsg {
     public String getMessage(String original) {
-        String ret = "";
         String[] words = original.split(" ");
         for (int k = 0; k<words.length; k++)
         {
